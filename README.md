@@ -4,7 +4,7 @@
 
 ---
 
-在清蘅塘退士选编基础上增补常背诗数首，并添注校、注音。
+在清蘅塘退士选编基础上增补常背诗数首，并添注校、注音。 [唐诗三百首增补PDF]([https://github.com/WuShaoa/TangDynastyPoems/releases/tag/%23pdf)
 
 带注音中国诗 Latex 环境（xpinyin）。
 
